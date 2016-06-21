@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="spnEntries">
+        <item>----選択してください----</item>
+        <item>321学科室</item>
+        <item>322前期院生室</item>
+        <item>323教員室</item>
+        <item>324教員室</item>
+        <item>325教員室</item>
+        <item>326教員室</item>
+        <item>327教員室</item>
+        <item>328教員室</item>
+        <item>329前期院生室</item>
+        <item>330後期院生室</item>
+                        
+    </string-array>
+    
+</resources>
